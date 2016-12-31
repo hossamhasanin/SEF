@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Wait will open metasploit ...."
+echo
+msfconsole -r ../msfrc/Listening2.rc

