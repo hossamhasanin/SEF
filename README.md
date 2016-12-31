@@ -19,9 +19,9 @@ git clone https://github.com/ahmadnourallah/SEF.git
 2- Mass Mailer Attack (Send fake email use real gmail account).<br>
 3- Sniif packets on your network use mitmf python script.<br>
 4- Payload creator and listner (make payload use msfvenom and start listen use msfconsole).<br>
-5- Windows exploits browser (make automatic exploit to exploit in metasploit).
-6- Bluetooth toolkit (scan deivce on your area, scan bluetooth service in specific device, evil twin attack on specific bluetooth, attack on specific service in device).
-7- Android toolkit (get android shell, android app databases decoder, download file from device),
+5- Windows exploits browser (make automatic exploit to exploit in metasploit).<br>
+6- Bluetooth toolkit (scan deivce on your area, scan bluetooth service in specific device, evil twin attack on specific bluetooth, attack on specific service in device).<br>
+7- Android toolkit (get android shell, android app databases decoder, download file from device).<br>
 8- Hack android passowrd(pattern, pin, password).<br>
 
 
